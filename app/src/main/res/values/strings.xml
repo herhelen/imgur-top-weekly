@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Top Imgur</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="top_weekly">Top Weekly</string>
+</resources>
